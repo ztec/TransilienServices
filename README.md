@@ -1,7 +1,7 @@
 Transilien Service
 ==================
 
-This is a project test for some formations.
+This is a project test for some training sessions.
 It cannot be used as is for now.
 
 Please be patient before a stable release (maybe in few weeks, who knows)
