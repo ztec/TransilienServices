@@ -1,0 +1,3 @@
+transilien_service_transilien_controller_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: TransilienServiceTransilienControllerBundle:Default:index }

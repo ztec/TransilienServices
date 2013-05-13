@@ -1,0 +1,4 @@
+transilien_service_transilien_controller:
+    resource: "@TransilienServiceTransilienControllerBundle/Resources/config/routing.yml"
+    prefix:   /
+
